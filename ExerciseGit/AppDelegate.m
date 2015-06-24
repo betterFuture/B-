@@ -22,6 +22,7 @@
     
     
     NSLog(@"再次修改");
+    NSLog(@"删除");
     return YES;
 }
 
